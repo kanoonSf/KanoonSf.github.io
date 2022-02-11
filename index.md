@@ -1,8 +1,8 @@
 # Kanoon's Page
 
-## test
+This is Kanoon's Pages.
 
 # LINK
-- [https://qiita.com](qitta)
-- [https://prog-8.com](progate)
-- [https://paiza.jp/works/mypage](paiza)
+- [qitta](https://qiita.com)
+- [Progate](https://prog-8.com)
+- [Paiza](https://paiza.jp/works/mypage)
